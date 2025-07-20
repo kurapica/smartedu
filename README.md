@@ -1,3 +1,3 @@
 # SmartEdu
 
-[加速智慧教育平台学习](https://kurapica.github.io/smartedu/)
+下载后，配合node.js使用
